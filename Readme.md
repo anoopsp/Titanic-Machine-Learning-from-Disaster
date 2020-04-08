@@ -6,18 +6,18 @@ The titanic survival data sets is downloaded from Kaggle. This is the part of co
 
 The jupyter notebook uses the standard Anaconda Distribution with the below mentioned packages installed. We will be using Python Programming in the notebooks.
 
-* Python 
-* Pandas 
+* Python
+* Pandas
 * Numpy
 * Seaborn
-* Matplotlib 
+* Matplotlib
 * Scikit learn
 
 
 
 ## File Description
 
-The datasets required for the predictions are downloaded from Kaggle. The folder contains *.ipynb file . This Jupyter notebook consists of required code for analysis and predictions.
+The datasets required for the predictions are downloaded from Kaggle. The folder contains Titanic Predictions.ipynb file . This Jupyter notebook consists of required code for analysis and predictions.
 
 
 
@@ -25,7 +25,6 @@ The datasets required for the predictions are downloaded from Kaggle. The folder
 
 Users need to install Jupyter notebook and mentioned packages in the installation section to successfully run this project.
 
+## License
 
-
-
-
+The license information is available in the "license.txt" file.
