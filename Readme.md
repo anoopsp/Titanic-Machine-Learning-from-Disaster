@@ -17,7 +17,7 @@ The jupyter notebook uses the standard Anaconda Distribution with the below ment
 
 ## File Description
 
-The datasets required for the predictions are downloaded from Kaggle. The folder contains *.ipynb file . This Jupyter notebook consists of required code for analysis and predictions.
+The datasets required for the predictions are downloaded from Kaggle. The folder contains Titanic Predictions.ipynb file . This Jupyter notebook consists of required code for analysis and predictions.
 
 
 
