@@ -28,3 +28,5 @@ Users need to install Jupyter notebook and mentioned packages in the installatio
 ## License
 
 The license information is available in the "license.txt" file.
+
+** The image embedded is taken from 'https://data.ibtimes.sg/en/full/17883/titanic.jpg?w=736' .
